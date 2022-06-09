@@ -7,10 +7,10 @@ Challenge Week One Horiseon Refactor for Accessibility
 - [Credits](#credits)
 - [License](#license)
 
-##Screenshot
+## Screenshot
 ![alt text](https://github.com/rouge86/RogerRefactorsHoriseon/blob/main/assets/images/Screen%20Shot%202022-06-09%20at%2010.27.50%20pm.png?raw=true)
 
-##Link to live page
+## Link to live page
 (https://rouge86.github.io/RogerRefactorsHoriseon/)
 
 
