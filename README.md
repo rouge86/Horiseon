@@ -7,6 +7,15 @@ Challenge Week One Horiseon Refactor for Accessibility
 - [Credits](#credits)
 - [License](#license)
 
+##Screenshot
+![alt text](https://github.com/rouge86/RogerRefactorsHoriseon/blob/main/assets/images/Screen%20Shot%202022-06-09%20at%2010.27.50%20pm.png?raw=true)
+
+##Link to live page
+(https://rouge86.github.io/RogerRefactorsHoriseon/)
+
+
+
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
